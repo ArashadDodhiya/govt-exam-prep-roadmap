@@ -8,10 +8,6 @@ This isn't a single mega-document — it's split into small, focused files so it
 
 This repo grew out of a single detailed prompt asking for an exhaustive exam-prep blueprint. Instead of keeping that as one huge answer, it's organized here as a structured, browsable repository — one file per exam, one file per prep phase, one file per resource category — so it can grow over time with real contributions instead of staying static.
 
-## ✅ Progress
-
-See [`05-progress-tracker/status.md`](05-progress-tracker/status.md) for what's done, in progress, or not started yet.
-
 ## 🤝 Contributing
 
 Contributions are welcome — whether that's filling in an exam page, fixing outdated info, or adding a resource. See [`CONTRIBUTING.md`](CONTRIBUTING.md) before opening a PR.
